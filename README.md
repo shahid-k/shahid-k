@@ -49,10 +49,6 @@ JavaScript, Python, R, C/C++, JavaScript, SQL
         Node.js
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" style="vertical-align: middle;"/>
-        Spring Boot
-    </div>
-    <div style="margin-right: 20px;">
         Kafka
     </div>
     <div style="margin-right: 20px;">
@@ -61,12 +57,6 @@ JavaScript, Python, R, C/C++, JavaScript, SQL
     <div style="margin-right: 20px;">
         <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" style="vertical-align: middle;"/>
         MySQL
-    </div>
-    <div style="margin-right: 20px;">
-        Mockito
-    </div>
-    <div style="margin-right: 20px;">
-        JUnit5
     </div>
 </div>
 
@@ -81,14 +71,6 @@ JavaScript, Python, R, C/C++, JavaScript, SQL
         Jenkins
     </div>
     <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/fluency/48/000000/grafana.png" alt="Grafana" style="vertical-align: middle;"/>
-        Grafana
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/kibana.png" alt="Kibana" style="vertical-align: middle;"/>
-        Kibana
-    </div>
-    <div style="margin-right: 20px;">
         <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" style="vertical-align: middle;"/>
         IntelliJ IDEA
     </div>
@@ -99,10 +81,6 @@ JavaScript, Python, R, C/C++, JavaScript, SQL
     <div style="margin-right: 20px;">
         <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" style="vertical-align: middle;"/>
         Firebase
-    </div>
-    <div style="margin-right: 20px;">
-        <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="vertical-align: middle;"/>
-        Azure
     </div>
 </div>
 
@@ -121,9 +99,4 @@ JavaScript, Python, R, C/C++, JavaScript, SQL
 
 - [GitHub](https://github.com/shahid-k) ![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)
 - [LinkedIn](https://www.linkedin.com/in/shahidkhan96/) ![LinkedIn](https://img.icons8.com/material-rounded/24/000000/linkedin.png)
-- [Personal Website](https://yogesh-goel.netlify.app/) ![Website](https://img.icons8.com/material-sharp/24/000000/domain.png)
 
-
-## 🚀 Recent Projects
-
-##TBD
