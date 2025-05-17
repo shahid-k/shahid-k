@@ -31,8 +31,8 @@ Experienced software engineer with 6 years of experience a strong background in 
 ## ✅ Certifications
 
 - **AWS Solutions Architect Associate**
-  - City University of Seattle, Seattle, USA
-
+- **GCP Associate Cloud Engineer**
+  
 ## 📚 Education
 
 - **MS in Computer Science**
