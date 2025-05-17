@@ -37,7 +37,6 @@ Experienced software engineer with 6 years of experience a strong background in 
 
 - **MS in Computer Science**
   - City University of Seattle, Seattle, USA
-  - Expected Graduation: July 2024
 
 ## 🌐 Links
 
